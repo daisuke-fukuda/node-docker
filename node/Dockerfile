@@ -1,5 +1,5 @@
 # ベースイメージを指定
-FROM node:10.15-alpine
+FROM node:14.4.0-alpine3.10
 
 # node.js の環境変数を定義する
 # 本番環境では production
